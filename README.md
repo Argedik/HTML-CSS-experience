@@ -1,3 +1,3 @@
 # HTML-experience
 HTML ödevleri
-(Kodluyoruz)[Kodluyoruz.org]
+[Kodluyoruz](Kodluyoruz.org)
