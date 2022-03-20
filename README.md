@@ -1,4 +1,4 @@
 # HTML-experience
 HTML ödevleri
 
-[Kodluyoruz](www.Kodluyoruz.org)
+[Kodluyoruz](https://www.kodluyoruz.org/)
